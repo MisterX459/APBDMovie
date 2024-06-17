@@ -4727,11 +4727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\APBD11\\APBD 11\\APBD 11.csproj",
-      "projectName": "APBD 11",
-      "projectPath": "C:\\Users\\PC\\APBD11\\APBD 11\\APBD 11.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\APBD11\\APBD11\\APBD11.csproj",
+      "projectName": "APBD11",
+      "projectPath": "C:\\Users\\PC\\APBD11\\APBD11\\APBD11.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\APBD11\\APBD 11\\obj\\",
+      "outputPath": "C:\\Users\\PC\\APBD11\\APBD11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
